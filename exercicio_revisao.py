@@ -23,3 +23,11 @@ print("A multiplicação dos numeros é :",multiplicação)
 #calculo potencia 
 potencia = numero1 ** numero2 
 print("A potencia do numero 1 elevado ao numero 2 é :", potencia)
+
+#exemplo booleano 
+idade = int(input("Digite a sua idade:"))
+if idade >=18:
+    print(True)
+else:
+    print(False) 
+
