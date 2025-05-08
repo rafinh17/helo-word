@@ -31,3 +31,5 @@ if idade >=18:
 else:
     print(False) 
 
+numero1 = int (input("Insira o primeiro numero da divisão :"))
+numero2 = int(input("Insira "))
